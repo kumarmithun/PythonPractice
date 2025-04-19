@@ -27,6 +27,3 @@ A Python script that:
 - `task2_greeting.py` — Task 2 implementation
 
 ---
-
-## 🔗 Submission Link
-> [GitHub Repository - PythonPractice](https://github.com/kumarmithun/PythonPractice)
