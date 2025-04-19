@@ -1,7 +1,8 @@
 # PythonPractice
 
-This repository contains solutions to **Assignment 1** from Module 2: Basic Python Concepts.
-
+###################
+## Assignment-1
+###################
 ## ✅ Tasks Completed
 
 ### Task 1: Perform Basic Mathematical Operations
@@ -27,3 +28,45 @@ A Python script that:
 - `task2_greeting.py` — Task 2 implementation
 
 ---
+###################
+## Assignment-2
+###################
+
+# PythonPractice
+
+This repository contains solutions for basic Python programming tasks including number checks and loop-based calculations.
+
+## 🧠 Tasks Completed
+
+---
+
+### ✅ Task 1: Check if a Number is Even or Odd
+
+**Problem Statement:**
+
+Write a Python program that:
+1. Takes an integer input from the user.
+2. Checks whether the number is even or odd using an `if-else` statement.
+3. Displays the result accordingly.
+
+**Sample Output:**
+Enter the Number: 7
+7: is Odd Number
+
+---
+
+### ✅ Task 2: Sum of Integers from 1 to 50 Using a Loop
+
+**Problem Statement:**
+
+Write a Python program that:
+1. Uses a `for` loop to iterate over numbers from 1 to 50.
+2. Calculates the sum of all integers in this range.
+3. Displays the final sum.
+
+**Sample Output:**
+
+The sum of 1 to 50 is : 1275
+
+
+
