@@ -1,16 +1,32 @@
-# PythonAssignment
+# PythonPractice
 
-## Module 2: Basic Python Concepts
+This repository contains solutions to **Assignment 1** from Module 2: Basic Python Concepts.
 
-This repository contains solutions for Assignment 1 of Module 2, focusing on basic Python skills such as input handling, mathematical operations, and string manipulation.
+## ✅ Tasks Completed
+
+### Task 1: Perform Basic Mathematical Operations
+A Python script that:
+- Takes two numbers as input from the user.
+- Performs:
+  - Addition
+  - Subtraction
+  - Multiplication
+  - Division
+- Displays the results of each operation.
+
+### Task 2: Create a Personalized Greeting
+A Python script that:
+- Takes user's first and last name as input.
+- Concatenates them into a full name.
+- Prints a personalized greeting using the full name.
 
 ---
 
-## Task 1: Mathematical Operations
+## 📁 Files Included
+- `task1_math_operations.py` — Task 1 implementation
+- `task2_greeting.py` — Task 2 implementation
 
-A simple Python script that:
-- Takes two numbers from the user.
-- Performs addition, subtraction, multiplication, and division.
-- Displays results with input validation and division by zero handling.
+---
 
-
+## 🔗 Submission Link
+> [GitHub Repository - PythonPractice](https://github.com/kumarmithun/PythonPractice)
