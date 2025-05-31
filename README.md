@@ -69,4 +69,23 @@ Write a Python program that:
 The sum of 1 to 50 is : 1275
 
 
+# Python Assignment 3: Module 4 – Functions & Modules
+
+## Task 1: Calculate Factorial Using a Function
+- Defines a `factorial()` function to calculate the factorial of a number.
+- Uses an iterative loop.
+- Includes a sample call with the number 5.
+
+## Task 2: Using the Math Module for Calculations
+- Takes user input.
+- Uses the `math` module to calculate:
+  - Square root
+  - Natural logarithm (log base e)
+  - Sine (in radians)
+- Includes error handling for invalid input.
+
+
+
+
+
 
